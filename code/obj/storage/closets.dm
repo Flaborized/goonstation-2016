@@ -73,7 +73,6 @@
 	/obj/item/clothing/under/rank/janitor = 2,\
 	/obj/item/clothing/shoes/black = 2,\
 	/obj/item/device/flashlight,\
-	/obj/item/clothing/shoes/galoshes,\
 	/obj/item/caution = 6)
 
 /obj/storage/closet/law
