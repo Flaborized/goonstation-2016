@@ -646,7 +646,7 @@
 	wages = 125
 	slot_belt = /obj/item/device/pda2/janitor
 	slot_jump = /obj/item/clothing/under/rank/janitor
-	slot_foot = /obj/item/clothing/shoes/black
+	slot_foot = /obj/item/clothing/shoes/galoshes
 	slot_ears = /obj/item/device/radio/headset/civilian
 
 	New()
@@ -660,7 +660,7 @@
 	wages = 100
 	slot_jump = /obj/item/clothing/under/rank/chaplain
 	slot_belt = /obj/item/device/pda2/chaplain
-	slot_foot = /obj/item/clothing/shoes/black
+	slot_foot = /obj/item/clothing/shoes/sandal
 	slot_ears = /obj/item/device/radio/headset/civilian
 
 	New()
