@@ -115,8 +115,7 @@
 	/obj/item/clothing/head/rabbihat,
 	/obj/item/clothing/head/formal_turban,
 	/obj/item/clothing/head/turban,
-	/obj/item/clothing/shoes/black,
-	/obj/item/clothing/shoes/sandal)
+	/obj/item/clothing/shoes/black)
 
 /obj/storage/closet/wardrobe/black/formalwear
 	name = "formalwear closet"
